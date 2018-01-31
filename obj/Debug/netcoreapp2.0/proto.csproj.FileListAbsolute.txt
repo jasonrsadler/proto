@@ -1,0 +1,10 @@
+C:\Users\JSadler\Documents\homework\proto\proto\bin\Debug\netcoreapp2.0\proto.deps.json
+C:\Users\JSadler\Documents\homework\proto\proto\bin\Debug\netcoreapp2.0\proto.runtimeconfig.json
+C:\Users\JSadler\Documents\homework\proto\proto\bin\Debug\netcoreapp2.0\proto.runtimeconfig.dev.json
+C:\Users\JSadler\Documents\homework\proto\proto\bin\Debug\netcoreapp2.0\proto.dll
+C:\Users\JSadler\Documents\homework\proto\proto\bin\Debug\netcoreapp2.0\proto.pdb
+C:\Users\JSadler\Documents\homework\proto\proto\obj\Debug\netcoreapp2.0\proto.csproj.CoreCompileInputs.cache
+C:\Users\JSadler\Documents\homework\proto\proto\obj\Debug\netcoreapp2.0\proto.AssemblyInfoInputs.cache
+C:\Users\JSadler\Documents\homework\proto\proto\obj\Debug\netcoreapp2.0\proto.AssemblyInfo.cs
+C:\Users\JSadler\Documents\homework\proto\proto\obj\Debug\netcoreapp2.0\proto.dll
+C:\Users\JSadler\Documents\homework\proto\proto\obj\Debug\netcoreapp2.0\proto.pdb
