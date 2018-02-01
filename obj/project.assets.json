@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JSadler\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/jason/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\JSadler\\Documents\\homework\\proto\\proto\\proto.csproj",
+      "projectUniqueName": "/home/jason/homework/proto/proto.csproj",
       "projectName": "proto",
-      "projectPath": "c:\\Users\\JSadler\\Documents\\homework\\proto\\proto\\proto.csproj",
-      "packagesPath": "C:\\Users\\JSadler\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\JSadler\\Documents\\homework\\proto\\proto\\obj\\",
+      "projectPath": "/home/jason/homework/proto/proto.csproj",
+      "packagesPath": "/home/jason/.nuget/packages/",
+      "outputPath": "/home/jason/homework/proto/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\JSadler\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/jason/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
